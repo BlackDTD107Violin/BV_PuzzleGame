@@ -1,2 +1,15 @@
 Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_03.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01_Alpha.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_03.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_03_Alpha.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_02_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_03_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_04_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_05_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_06_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_07_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/PN_Fern/Textures/MasterTextures/Fern/fern_08_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/FreeAssets/Sci_FI_Valley_Village/Textures/T_normals/T_detail__02_N.uasset filter=lfs diff=lfs merge=lfs -text
